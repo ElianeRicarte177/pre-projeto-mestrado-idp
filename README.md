@@ -22,6 +22,12 @@ Este repositório foi criado durante a elaboração do pré-projeto e será atua
 - [`instrumento/`](instrumento/) — documentação futura do banco de tarefas, rubricas, gabaritos e versões do protocolo;
 - [`.gitignore`](.gitignore) — proteção contra publicação acidental de credenciais e arquivos locais.
 
+## Estrutura LaTeX
+
+A dissertação passa a ser desenvolvida também em LaTeX, com arquivo principal `main.tex` na raiz e arquivos modulares em `latex/`. A bibliografia automatizada utiliza `referencias/referencias.bib`, exportado do Zotero por Better BibTeX.
+
+A estrutura segue como referência o template institucional Universidade IDP 2026 e será ajustada progressivamente durante a redação.
+
 ## Finalidade do repositório
 
 O repositório será utilizado para aumentar a **transparência, rastreabilidade e reprodutibilidade** da pesquisa, reunindo progressivamente:
