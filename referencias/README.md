@@ -1,6 +1,10 @@
 # Referências e metadados
 
-Esta pasta será usada para documentar as referências utilizadas no projeto.
+Esta pasta documenta as referências utilizadas no projeto.
+
+## Arquivos atuais
+
+- [`bibliografia.md`](bibliografia.md) — lista das 29 referências da versão do pré-projeto entregue em 2 de novembro de 2026.
 
 ## O que será armazenado
 
@@ -25,8 +29,9 @@ Os arquivos integrais permanecerão em bibliotecas pessoais de pesquisa, especia
 
 A bibliografia poderá ser mantida em formatos complementares:
 
-- bibliografia.md — leitura humana e notas resumidas;
-- referencias.bib — exportação bibliográfica para LaTeX/Zotero;
-- referencias.csv — metadados tabulares, se for útil para auditoria ou análise.
+- `bibliografia.md` — leitura humana e registro histórico;
+- `referencias.bib` — exportação bibliográfica para LaTeX/Zotero;
+- `referencias.csv` — metadados tabulares, se for útil para auditoria ou análise;
+- `leituras.md` — acompanhamento de leitura e relevância para o projeto, se adotado.
 
-A inclusão desses arquivos será feita progressivamente, com conferência das versões publicadas e dos identificadores persistentes.
+Novas referências e correções posteriores serão incorporadas progressivamente, com conferência das versões publicadas e dos identificadores persistentes.
