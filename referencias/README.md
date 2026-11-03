@@ -25,6 +25,12 @@ PDFs de artigos, capítulos ou livros protegidos por direitos autorais **não se
 
 Os arquivos integrais permanecerão em bibliotecas pessoais de pesquisa, especialmente no Zotero, ou serão acessados pelas páginas oficiais e bases institucionais.
 
+## Padrão de normalização
+
+A partir de 03/11/2026, a referência institucional principal é o padrão vigente da **Universidade IDP**, com destaque para a **ABNT NBR 6023:2025** para elaboração de referências. Ver [docs/padrao-institucional.md](../docs/padrao-institucional.md).
+
+O Zotero será utilizado como fonte-mestre dos metadados, com exportação via Better BibTeX para `referencias.bib`.
+
 ## Organização prevista
 
 A bibliografia poderá ser mantida em formatos complementares:
