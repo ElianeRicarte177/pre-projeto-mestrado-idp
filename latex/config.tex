@@ -1,0 +1,59 @@
+% Configuração-base — Universidade IDP 2026
+% A validação final deve ser feita contra o manual institucional vigente.
+
+\usepackage{fontspec}
+\IfFontExistsTF{Times New Roman}
+  {\setmainfont{Times New Roman}}
+  {\setmainfont{TeX Gyre Termes}}
+
+\usepackage[brazil]{babel}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{xurl}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage[
+  backend=biber,
+  style=abnt,
+  sorting=nyt,
+  language=auto,
+  autolang=other
+]{biblatex}
+
+\geometry{
+  top=3cm,
+  left=3cm,
+  bottom=2cm,
+  right=2cm
+}
+
+\OnehalfSpacing
+\setlength{\parindent}{1.25cm}
+\setlength{\parskip}{0pt}
+\AtBeginBibliography{\singlespacing}
+
+\hypersetup{
+  colorlinks=false,
+  pdfborder={0 0 0},
+  bookmarksopen=true
+}
+
+\renewcommand{\ABNTEXchapterfont}{\bfseries}
+\renewcommand{\ABNTEXchapterfontsize}{\normalsize}
+\renewcommand{\ABNTEXsectionfont}{\bfseries}
+\renewcommand{\ABNTEXsectionfontsize}{\normalsize}
+\renewcommand{\ABNTEXsubsectionfont}{\bfseries\itshape}
+\renewcommand{\ABNTEXsubsectionfontsize}{\normalsize}
+
+\Urlmuskip=0mu plus 1mu
+
+% O estilo bibliográfico automatiza a saída, mas a versão final
+% deverá ser auditada contra a NBR 6023:2025 e o manual do IDP.
