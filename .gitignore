@@ -1,0 +1,33 @@
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+*.env
+*.key
+*.pem
+secrets.*
+credentials.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dados e arquivos locais não destinados à publicação
+data/private/
+dados/privados/
+tmp/
+temp/
+
+# Arquivos de log
+*.log
