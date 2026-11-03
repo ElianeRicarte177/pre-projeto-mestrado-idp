@@ -66,6 +66,14 @@ Termos como viés, estereótipo, alinhamento cultural, diferença de desempenho,
 
 O artigo relacionado permanece independente da dissertação. Poderá servir como estudo exploratório, piloto, antecedente metodológico ou fonte de instrumentos, desde que haja compatibilidade entre os desenhos. A dissertação não depende da submissão ou aceitação do artigo.
 
+### 7. Padrão institucional e normalização — 03/11/2026
+
+A documentação oficial da Universidade IDP publicada em 2026 passa a ser a referência principal de normalização da dissertação. A bibliografia deverá observar a **NBR 6023:2025**, além das demais normas vigentes indicadas no manual institucional.
+
+O template institucional anterior e materiais baseados em versões anteriores da NBR 6023 deixam de ser tratados como referência normativa principal. O histórico permanece preservado.
+
+Detalhes: [padrão institucional e normas de referência](padrao-institucional.md).
+
 ## Próximas decisões a documentar
 
 - seleção final dos modelos e endpoints;
