@@ -13,6 +13,14 @@ Avaliação comparativa da **acurácia factual e da cobertura de respostas de La
 
 Este repositório foi criado durante a elaboração do pré-projeto e será atualizado progressivamente ao longo do desenvolvimento da pesquisa. As formulações teóricas, hipóteses, instrumentos e escolhas metodológicas ainda poderão ser revistas após orientação, ampliação da revisão de literatura, piloto e qualificação.
 
+## Estrutura atual
+
+- [`docs/decisoes-metodologicas.md`](docs/decisoes-metodologicas.md) — registro das principais escolhas do desenho e de alterações futuras;
+- [`docs/uso-de-ia.md`](docs/uso-de-ia.md) — documentação progressiva do uso de ferramentas de IA;
+- [`referencias/`](referencias/) — metadados, DOI, links oficiais e organização bibliográfica, sem publicação de PDFs protegidos;
+- [`instrumento/`](instrumento/) — documentação futura do banco de tarefas, rubricas, gabaritos e versões do protocolo;
+- [`.gitignore`](.gitignore) — proteção contra publicação acidental de credenciais e arquivos locais.
+
 ## Finalidade do repositório
 
 O repositório será utilizado para aumentar a **transparência, rastreabilidade e reprodutibilidade** da pesquisa, reunindo progressivamente:
